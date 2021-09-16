@@ -490,7 +490,7 @@ void printDataBlock() {
 /***********/
 
 int main() {
-  //Provided test
+  // Test
   ByteQueueFragment* q0 = create_queue();
   enqueue_byte(q0, 0);
   enqueue_byte(q0, 1);
